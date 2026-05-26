@@ -209,4 +209,3 @@ MIT License
 # 👨‍💻 Auteur
 
 Développé par Théo Meuriot.
-```
